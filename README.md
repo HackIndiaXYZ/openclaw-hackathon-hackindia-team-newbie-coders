@@ -6,6 +6,7 @@ Team Members - Harsh Garg, Hardik Sharma, Gaurav Chauhan, Gaurav Yadav
 Project Name - Guardian Link
 Guardian Link is a public safety system designed to protect users in distress situations. It leverages AI-powered wake-word detection, automated evidence collection, and multi-channel alert distribution to ensure timely help.
 Project Link - https://gargharsh565-newbie-coders-build-for-07ip.onrender.com
+Youtube Demo Vedio Link - https://youtube.com/shorts/uK3izsDqwbA?feature=share
 
 🔑 Core Features
 - SOS Activation (Wake Word)
