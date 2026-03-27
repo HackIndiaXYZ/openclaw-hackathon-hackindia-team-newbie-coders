@@ -23,7 +23,6 @@ Youtube Demo Vedio Link - https://youtube.com/shorts/uK3izsDqwbA?feature=share
 - Audio recording via microphone.
 - Location (Google Maps link).
 - Evidence refreshed every 5 minutes until SOS is manually turned off.
-- Encrypted Evidence Transmission: All images, audio, and location data are encrypted before being sent to ensure privacy and security.
 - SOS Messaging
 - Sends evidence + custom SOS message to:
 - SMS
@@ -62,4 +61,4 @@ Youtube Demo Vedio Link - https://youtube.com/shorts/uK3izsDqwbA?feature=share
 - Photo Evidence Display: Side-by-side thumbnails (front cam / rear cam).
 - Audio Playback: Replay recorded audio evidence.
 
-Note - The Current project is a prototype version that may lack few features.
+Note - The Current project is a prototype version.
